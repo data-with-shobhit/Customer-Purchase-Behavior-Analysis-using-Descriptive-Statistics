@@ -1,10 +1,13 @@
 
-
+---
 # Customer Purchase Behavior Analysis using Descriptive Statistics
+
+---
 
 ## Project Overview
 This project aims to analyze customer purchase behavior using descriptive statistics. The analysis focuses on understanding patterns in customer demographics, purchasing habits, and product preferences, providing valuable insights for targeted marketing and business strategy.
 
+---
 ## Dataset
 The dataset was gathered during last year's campaign and includes the following columns:
 
@@ -31,7 +34,10 @@ The dataset was gathered during last year's campaign and includes the following 
 - **NumWebVisitsMonth**: Number of visits to the company's website in the last month.
 - **Recency**: Number of days since the last purchase.
 
+---
+
 ## Analysis Approach
 - **Descriptive Statistics**: Summarization of customer data using measures like mean, median, mode, and standard deviation.
 - **Visualization**: Graphical representation of customer segments and purchasing patterns.
 
+---
